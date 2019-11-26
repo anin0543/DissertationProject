@@ -1,0 +1,11 @@
+html,
+body,
+.app{
+    height: 100vh;
+    background: #eee;
+    padding:0.5em;
+}
+h1{
+    text-align: center;
+    padding-top: 10%;
+}
